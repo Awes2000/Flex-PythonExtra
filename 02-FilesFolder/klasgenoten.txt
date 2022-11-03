@@ -1,0 +1,11 @@
+Eugene
+Clement
+Davey
+Jonas
+Sam
+Robert
+Keith
+Bente
+Mucahid
+Gio
+read(klasgenoten.txt)
